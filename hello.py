@@ -4,3 +4,5 @@
 print 'hello,python'
 
 print 'bye,bye!'
+
+print 'hello, i come'
